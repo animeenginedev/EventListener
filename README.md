@@ -1,5 +1,5 @@
 # EventListener
-Simple Event Listner system.
+Simple Event Listener system.
 
 Just a framework to call bound functions remotely. I use it mainly for events that need to go to a lot of different places and I don't want to think too much about the structure if I don't include it in the initial design. Screen Resizing is a good example of something that may need to be told to a lot of objects, changing configuration options like audio is another.
 
